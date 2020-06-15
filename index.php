@@ -1,4 +1,4 @@
-<img src="anubhav.jpeg" alt="Spider-man" width="1200" height="800">
+<img src="anubhav.jpg" alt="Spider-man" width="1200" height="800">
 <br />
 
 <pre>
